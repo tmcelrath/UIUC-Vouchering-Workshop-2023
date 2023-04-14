@@ -40,7 +40,7 @@ The agenda is generated from your ideas and needs. Activities, events, ideas alw
 | | Pinning and mounting specifics | Tommy McElrath  |  |
 | | Labeling specifics  | Tommy McElrath  |  |
 | 12:00 | Break for lunch  | everyone  |  |
-|  | From a Digital Data and _Extending_ your Specimens  | Debbie Paul  | |
+|  | Digital Data and _Extending_ your Specimens  | Debbie Paul  | |
 | 13:00 | Data Capture and Mobilization  | Debbie Paul |  |
 | 13:30 | Data Standards | Debbie Paul |  |
 | 14:00 | Data Carpentries | Debbie Paul |  |
