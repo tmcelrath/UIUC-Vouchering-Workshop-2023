@@ -8,4 +8,5 @@ Have a question or topic you want to cover? Add [an issue or idea for UIUC Ento 
 
 Short URL for this page [https://tinyurl.com/twt-2022](https://tinyurl.com/INHSvoucher)
 
-
+**[UIUC Vouchering Registration Form](https://forms.gle/y9uxCcDNhDvQb37VA)**  
+Thanks for joining us and inviting your colleagues and students.
