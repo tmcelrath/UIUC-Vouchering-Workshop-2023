@@ -27,3 +27,24 @@ Before the event steps:
 
 _Scheduled events are subject to minor changes_.  All events will have question / answer / discussion time.
 
+## Agenda
+The agenda is generated from your ideas and needs. Activities, events, ideas always welcome. [Submit them here](https://github.com/tmcelrath/UIUC-Vouchering-Workshop-Spring-2023/issues)
+
+| CDT | Topic  | Who  | Notes |
+|:----------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|:------------------------------------------------------|
+| 08:30 | Introduction to the workshop  | all |  |
+| | From the Field to a Voucher  | Tommy McElrath  | |
+| 09:00 | The Big Picture: thinking past just your project  | Tommy McElrath |  |
+| 09:30 | The Field: prepping for data and specimen longetivity before you go  | Tommy McElrath/Debbie Paul  |  |
+| 10:45 | Vouchering and thinking in museum time: preserving your specimens for a long shelf life  | Tommy McElrath  |  |
+| | Pinning and mounting specifics | Tommy McElrath  |  |
+| | Labeling specifics  | Tommy McElrath  |  |
+| 12:00 | Break for lunch  | everyone  |  |
+|  | From a Digital Data and _Extending_ your Specimens  | Debbie Paul  | |
+| 13:00 | Data Capture and Mobilization  | Debbie Paul |  |
+| 13:30 | Data Standards | Debbie Paul |  |
+| 14:00 | Data Carpentries | Debbie Paul |  |
+| 15:00 | Data Papers (yes, they are a thing!) | Tommy McElrath/Debbie Paul |  |
+| 15:15 | What does this look like here at INHS? | Tommy McElrath |  |
+| 15:45 | What's next for here at UIUC & PRI? | everyone |  |
+| 16:45 | Creating a community of resource & data sharing | everyone |  |
