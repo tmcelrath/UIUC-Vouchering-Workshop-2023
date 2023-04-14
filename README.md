@@ -4,7 +4,7 @@
 This is the main page for the schedule and other information about the UIUC and INHS entomology vouchering workshop led by Tommy McElrath and Debbie Paul.
 
 First Workshop: XX in person.  
-Have a question or topic you want to cover? Add [an issue or idea for UIUC Ento Workshop (https://github.com/tmcelrath/UIUC-Vouchering-Workshop-Spring-2023/issues).<br>
+Have a question or topic you want to cover? Add [an issue or idea for UIUC Ento Workshop](https://github.com/tmcelrath/UIUC-Vouchering-Workshop-Spring-2023/issues).<br>
 
 Short URL for this page [https://tinyurl.com/twt-2022](https://tinyurl.com/INHSvoucher)
 
@@ -18,4 +18,12 @@ Our 1st Vouchering and Digital Data Management workshop. Join us for one days of
 
 # Who
 Taxonomists, undergraduate & graduate students, ecologists, curators, collection managers, entomologists, biodiversity information scientists, research assistants, and more. If you want to think about long term care of specimens, this workshop is for you. 
+
+# How
+Before the event steps:
+1. Register (see link above) which gives us your email address and secures your spot. 
+2. [Post ideas, requests, questions]([https://github.com/SpeciesFileGroup/taxonworks_together_2021/issues](https://github.com/tmcelrath/UIUC-Vouchering-Workshop-Spring-2023/issues) to be tackled during the week.
+3. [Collaborative Notes doc](https://docs.google.com/document/d/14XPuhZf7YSSDkFs2rPnyfmSGGbDPe6ZSQ7391hias4Q/edit) (accessible on the day of the workshop) for the Vouchering Workshop
+
+_Scheduled events are subject to minor changes_.  All events will have question / answer / discussion time.
 
