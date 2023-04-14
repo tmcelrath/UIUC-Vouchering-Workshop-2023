@@ -22,7 +22,7 @@ Taxonomists, undergraduate & graduate students, ecologists, curators, collection
 # How
 Before the event steps:
 1. Register (see link above) which gives us your email address and secures your spot. 
-2. [Post ideas, requests, questions]([https://github.com/SpeciesFileGroup/taxonworks_together_2021/issues](https://github.com/tmcelrath/UIUC-Vouchering-Workshop-Spring-2023/issues) to be tackled during the week.
+2. [Post ideas, requests, questions](https://github.com/tmcelrath/UIUC-Vouchering-Workshop-Spring-2023/issues) to be tackled during the week.
 3. [Collaborative Notes doc](https://docs.google.com/document/d/14XPuhZf7YSSDkFs2rPnyfmSGGbDPe6ZSQ7391hias4Q/edit) (accessible on the day of the workshop) for the Vouchering Workshop
 
 _Scheduled events are subject to minor changes_.  All events will have question / answer / discussion time.
