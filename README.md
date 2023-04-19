@@ -3,8 +3,10 @@
 
 This is the main page for the schedule and other information about the UIUC and INHS entomology vouchering workshop led by Tommy McElrath and Debbie Paul.
 
-First Workshop: May 16, 2023 in-person. Second workshop to be help mid-late August, date TBD. 
-Forbes Natural History Building, Room 1005.  
+First Workshop: May 16, 2023 in-person. <br>
+Second workshop: August 18th, 2023 in-person. <br>
+[Forbes Natural History Building](https://goo.gl/maps/WApsw2BVLnLmepRq5), Room 1005.  <br>
+
 Have a question or topic you want to cover? Add [an issue or idea for UIUC Ento Workshop](https://github.com/tmcelrath/UIUC-Vouchering-Workshop-Spring-2023/issues).<br>
 
 Short URL for this page [https://tinyurl.com/INHSvoucher](https://tinyurl.com/INHSvoucher)
