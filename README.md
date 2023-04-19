@@ -23,9 +23,9 @@ Our 1st Vouchering and Digital Data Management workshop. Join us for one day of 
 Taxonomists, undergraduate & graduate students, ecologists, curators, collection managers, entomologists, biodiversity information scientists, research assistants, and more. If you want to think about long term care of specimens and the data that makes them most valuable, this workshop is for you. Find out how to expand the reach and impact for you, your organization, and for your data, specimens, research, and datasets.
 
 # Logistics
-- Workshop to be held at [Location TB Announced]. 
+- Workshop to be held at the [Forbes Natural History Building](https://goo.gl/maps/WApsw2BVLnLmepRq5). 
 - Lunch to be provided.
-- You will need a laptop.
+- You will need to bring a laptop.
 
 # How
 Before the event steps:
