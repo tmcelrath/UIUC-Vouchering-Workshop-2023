@@ -1,4 +1,4 @@
-# UIUC Vouchering Workshop - Spring 2023
+# UIUC Vouchering Workshop - 2023
 ![PRAIR_FullColor_RGB](https://user-images.githubusercontent.com/11411328/231914420-6166ef4c-d040-4fbd-b321-eb4a90861b0b.png)
 
 This is the main page for the schedule and other information about the UIUC and INHS entomology vouchering workshop led by Tommy McElrath and Debbie Paul.
