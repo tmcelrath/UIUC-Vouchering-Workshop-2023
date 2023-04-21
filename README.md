@@ -45,7 +45,7 @@ The agenda is generated from your ideas and needs. Activities, events, ideas alw
 | 08:30 | Introduction to the workshop  | all |  |
 | | From the Field to a Voucher  | Tommy McElrath  | |
 | 09:00 | The Big Picture: thinking past just your project  | Tommy McElrath |  |
-| 09:30 | The Field: prepping for data and specimen longetivity before you go  | Tommy McElrath/Debbie Paul  |  |
+| 09:30 | The Field: prepping for data and specimen longevity before you go  | Tommy McElrath/Debbie Paul  |  |
 | 10:45 | Vouchering and thinking in museum time: preserving your specimens for a long shelf life  | Tommy McElrath  |  |
 | | Pinning and mounting specifics | Tommy McElrath  |  |
 | | Labeling specifics  | Tommy McElrath  |  |
