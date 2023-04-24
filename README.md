@@ -53,7 +53,7 @@ The agenda is generated from your ideas and needs. Activities, events, ideas alw
 |  | Digital Data and _Extending_ your Specimens  | Debbie Paul  | |
 | 13:00 | Data Capture and Mobilization  | Debbie Paul |  |
 | 13:30 | Data Standards | Debbie Paul |  |
-| 14:00 | Data Carpentries | Debbie Paul |  |
+| 14:00 | The Carpentries | Debbie Paul |  |
 | 15:00 | Data Papers (yes, they are a thing!) | Tommy McElrath/Debbie Paul |  |
 | 15:15 | What does this look like here at UIUC/PRI? | Tommy McElrath |  |
 | 15:45 | What's next for you and our community? | everyone |  |
