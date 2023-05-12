@@ -1,5 +1,6 @@
 ## Resource Links:
 
+- [The Insect Collectors Code](https://academic.oup.com/ae/article/64/3/156/5098337)
 - [Field to Database](https://www.idigbio.org/wiki/index.php?title=Field_to_Database) at iDigBio
 - [Biodiversity Informatics 101 at Biodiversity Next](https://github.com/tdwg/curriculum/blob/master/biodiversity-informatics-101/bi101_schedule_2019.md)  from TDWG 2019, Leiden
 - Scott A. Morrison, T. Scott Sillett, W. Chris Funk, Cameron K. Ghalambor, Torben C. Rick, Equipping the 22nd-Century Historical Ecologist  Trends in Ecology & Evolution, Volume 32, Issue 8, 2017, Pages 578-588, ISSN 0169-5347, https://doi.org/10.1016/j.tree.2017.05.006 https://www.sciencedirect.com/science/article/pii/S0169534717301313 
