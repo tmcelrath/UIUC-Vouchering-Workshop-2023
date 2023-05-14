@@ -51,7 +51,8 @@ The agenda is generated from your ideas and needs. Activities, events, ideas alw
 | 10:45 | Vouchering and thinking in museum time: preserving your specimens for a long shelf life  | Tommy McElrath  |  |
 | | Pinning and mounting specifics | Tommy McElrath  |  |
 | | Labeling specifics  | Tommy McElrath  |  |
-| 12:00 | Break for lunch  | everyone  |  |
+| 12:00-12:05 | Group Photo  | everyone (Opt-in)  |  |
+| 12:05-13:00 | Break for lunch  | everyone  |  |
 |  | Digital Data and _Extending_ your Specimens  | Debbie Paul  | |
 | 13:00 | Data Capture and Mobilization  | Debbie Paul |  |
 | 13:30 | Data Standards | Debbie Paul |  |
