@@ -17,3 +17,7 @@
 - [Care and Feeding of Data Scientists](https://oreilly-ds-report.s3.amazonaws.com/Care_and_Feeding_of_Data_Scientists.pdf)
 - [Developing a modern data workflow for regularly updated data](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000125)
 - [Nine simple ways to make it easier to (re)use your data](https://ojs.library.queensu.ca/index.php/IEE/article/view/4608)
+- [Introductory Darwin Core Mapping Exercise](https://big-bee-network.github.io/bee-darwin-core/)
+  - Paul DL, Seltmann K. Mapping Bee Data to Darwin Core. Native bee biodiversity data management workshop for The National Native Bee Monitoring RCN. funded by the United States Department of Agriculture (USDA NIFA 2020-67014-31865 to S.H.W.). March 2023
+
+
