@@ -56,8 +56,8 @@ The agenda is generated from your ideas and needs. Activities, events, ideas alw
 |  | Creating and Managing Digital Data and _Extending_ your Specimens  | Debbie Paul  | |
 | 13:00 | The Data Life Cycle (e.g. data management, data capture, publishing, etc)  | Debbie Paul |  |
 | 13:30 | Data Standards | Debbie Paul |  |
-| 14:00 | The Carpentries | Debbie Paul |  |
-| 15:00 | Data Papers (yes, they are a thing!) | Tommy McElrath/Debbie Paul |  |
+| 14:00 | The Carpentries<br/>[Data Organization in Spreadsheets](https://datacarpentry.org/spreadsheet-ecology-lesson/) (the [dataset](https://ndownloader.figshare.com/files/2252083))<br/>[Data Cleaning with Open Refine](https://datacarpentry.org/OpenRefine-ecology-lesson/) (the Open Refine [dataset](https://datacarpentry.org/OpenRefine-ecology-lesson/data/Portal_rodents_19772002_simplified.csv)) | Debbie Paul |  |
+| 15:00 | Data Papers (yes, they are a thing!)<br/> [What is a Data Paper?](https://www.gbif.org/data-papers) | Tommy McElrath/Debbie Paul |  |
 | 15:15 | What does this look like here at UIUC/PRI? | Tommy McElrath |  |
-| 15:45 | What's next for you and our community? | everyone |  |
+| 15:45 | What's next for you and our community?<br/>Lightning Talks From Your Perspective | everyone |  |
 | 16:45 | Close of workshop | everyone |  |
