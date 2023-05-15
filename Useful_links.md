@@ -9,6 +9,7 @@
 - [Care and Feeding of Data Scientists](https://oreilly-ds-report.s3.amazonaws.com/Care_and_Feeding_of_Data_Scientists.pdf)
 - [Developing a modern data workflow for regularly updated data](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000125)
 - [Nine simple ways to make it easier to (re)use your data](https://ojs.library.queensu.ca/index.php/IEE/article/view/4608)
+- Ziemann M, Eren Y, El-Osta A. [Gene name errors are widespread in the scientific literature](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1044-7). Genome biology. 2016 Dec;17(1):1-3.
 ### Workshops
 - [Field to Database](https://www.idigbio.org/wiki/index.php?title=Field_to_Database) at iDigBio
 - [Biodiversity Informatics 101 at Biodiversity Next](https://github.com/tdwg/curriculum/blob/master/biodiversity-informatics-101/bi101_schedule_2019.md)  from TDWG 2019, Leiden
