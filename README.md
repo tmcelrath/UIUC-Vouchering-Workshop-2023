@@ -53,8 +53,8 @@ The agenda is generated from your ideas and needs. Activities, events, ideas alw
 | | Labeling specifics  | Tommy McElrath  |  |
 | 12:00-12:05 | Group Photo  | everyone (Opt-in)  |  |
 | 12:05-13:00 | Break for lunch  | everyone  |  |
-|  | Digital Data and _Extending_ your Specimens  | Debbie Paul  | |
-| 13:00 | Data Capture and Mobilization  | Debbie Paul |  |
+|  | Creating and Managing Digital Data and _Extending_ your Specimens  | Debbie Paul  | |
+| 13:00 | The Data Life Cycle (e.g. data management, data capture, publishing, etc)  | Debbie Paul |  |
 | 13:30 | Data Standards | Debbie Paul |  |
 | 14:00 | The Carpentries | Debbie Paul |  |
 | 15:00 | Data Papers (yes, they are a thing!) | Tommy McElrath/Debbie Paul |  |
