@@ -10,6 +10,8 @@
 - [Developing a modern data workflow for regularly updated data](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000125)
 - [Nine simple ways to make it easier to (re)use your data](https://ojs.library.queensu.ca/index.php/IEE/article/view/4608)
 - Ziemann M, Eren Y, El-Osta A. [Gene name errors are widespread in the scientific literature](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1044-7). Genome biology. 2016 Dec;17(1):1-3.
+- Braga, P.H.P., Hébert, K., Hudgins, E.J., Scott, E.R., Edwards, B.P.M., Sánchez Reyes, L.L., Grainger, M.J., Foroughirad, V., Hillemann, F., Binley, A.D., Brookson, C.B., Gaynor, K.M., Shafiei Sabet, S., Güncan, A., Weierbach, H., Gomes, D.G.E., Crystal-Ornelas, R., n.d. Not just for programmers: How GitHub can accelerate collaborative and reproducible
+research in ecology and evolution. Methods in Ecology and Evolution n/a. https://doi.org/10.1111/2041-210X.14108
 ### Workshops
 - [Field to Database](https://www.idigbio.org/wiki/index.php?title=Field_to_Database) at iDigBio
 - [Biodiversity Informatics 101 at Biodiversity Next](https://github.com/tdwg/curriculum/blob/master/biodiversity-informatics-101/bi101_schedule_2019.md)  from TDWG 2019, Leiden
