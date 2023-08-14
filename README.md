@@ -63,4 +63,4 @@ The agenda is generated from your ideas and needs. Activities, events, ideas alw
 | 16:45 | Close of workshop | everyone |  |
 
 # Outcomes
-Hear from participants about their experience at the first Vouchering and Digital Data Management workshop in May in a group-authored blog post: [Towards Long-lived Specimens, Data, and Increased Impact]
+Hear from participants about their experience at the first Vouchering and Digital Data Management workshop in May in a group-authored blog post: [Towards Long-lived Specimens, Data, and Increased Impact](http://speciesfilegroup.org/announce/2023/05/26/vouchering-data-life-cycle-workshop-one.html)
