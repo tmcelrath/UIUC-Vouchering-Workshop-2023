@@ -61,3 +61,6 @@ The agenda is generated from your ideas and needs. Activities, events, ideas alw
 | 15:15 | What does this look like here at UIUC/PRI? | Tommy McElrath |  |
 | 15:45 | What's next for you and our community?<br/>Lightning Talks From Your Perspective | everyone |  |
 | 16:45 | Close of workshop | everyone |  |
+
+# Outcomes
+Hear from participants about their experience at the first Vouchering and Digital Data Management workshop in May in a group-authored blog post: [Towards Long-lived Specimens, Data, and Increased Impact]
