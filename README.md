@@ -35,7 +35,8 @@ Before the event steps:
     - You'll need a GitHub account. Go to [GitHub.com](https://github.com/) and sign up.
 3. Please install OpenRefine - a tool for cleaning messy data and exploring your data
    - [Installation Instructions](https://datacarpentry.org/OpenRefine-ecology-lesson/#software)
-5. [Collaborative Notes doc](https://docs.google.com/document/d/14XPuhZf7YSSDkFs2rPnyfmSGGbDPe6ZSQ7391hias4Q/edit) (accessible on the day of the workshop) for the Vouchering Workshop
+5. [1st Workshop Collaborative Notes doc](https://docs.google.com/document/d/14XPuhZf7YSSDkFs2rPnyfmSGGbDPe6ZSQ7391hias4Q/edit) (accessible on the day of the workshop) for the Vouchering Workshop
+6. [2nd Workshop Collaborative Notes doc](https://docs.google.com/document/d/1xQ2vSP6tUnji0rqeZZcHd5pfVKR1uCas4T4yK3V-riM/edit?usp=sharing)
 
 _Scheduled events are subject to minor changes_.  All events will have question / answer / discussion time.
 
